@@ -1,3 +1,11 @@
-Guid,AccountId,Amount,CloseDate,ContactId,Description,ForecastCategoryName,LeadSource,Name,NextStep,Probability,SBQQ__Contracted__c,SBQQ__CreateContractedPrices__c,SBQQ__OrderGroupID__c,SBQQ__Ordered__c,SBQQ__QuotePricebookId__c,SBQQ__Renewal__c,StageName,Type
-2d11beb3-65a0-4606-a87a-354765670336,5d76a494-6a04-41f4-8bbb-941083467803,"#N/A",2020-07-06,"#N/A","#N/A",Pipeline,"#N/A",Test opportunity 2,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
-b3176a54-b341-4fd0-9403-bd3943fda871,5d76a494-6a04-41f4-8bbb-941083467803,"#N/A",2020-07-06,"#N/A","#N/A",Pipeline,"#N/A",Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+88360ffd-6095-4264-b563-59f1f153595d,12243bf4-8e5c-44d1-9b5d-60fb5d010671,20000.0,2020-12-02,"#N/A","Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,",Pipeline,Trade Show,Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
